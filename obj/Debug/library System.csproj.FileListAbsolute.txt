@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\library System\library System\obj\Debug\library System.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\library System\library System\obj\Debug\library_System.form 1.resources
+C:\Users\ADMIN\source\repos\library System\library System\obj\Debug\library_System.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\library System\library System\obj\Debug\library System.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\library System\library System\obj\Debug\library System.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\library System\library System\bin\Debug\library System.exe.config
+C:\Users\ADMIN\source\repos\library System\library System\bin\Debug\library System.exe
+C:\Users\ADMIN\source\repos\library System\library System\bin\Debug\library System.pdb
+C:\Users\ADMIN\source\repos\library System\library System\obj\Debug\library_System.Form1.resources
+C:\Users\ADMIN\source\repos\library System\library System\obj\Debug\library System.exe
+C:\Users\ADMIN\source\repos\library System\library System\obj\Debug\library System.pdb
+C:\Users\ADMIN\source\repos\library System\library System\obj\Debug\Library_System.BookListForm.resources
